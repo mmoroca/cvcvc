@@ -2,6 +2,8 @@
 
 Script en Python que analiza un diccionario de palabras en español y selecciona aleatoriamente una palabra de 5 letras para cada patrón posible de consonantes (C) y vocales (V).
 
+![Captura de pantalla](https://github.com/mmoroca/cvcvc/blob/main/cvcvc.png "Captura de pantalla")
+
 ## ¿Qué hace?
 
 1. Lee un archivo de texto con palabras en español (`dicc.txt`).
